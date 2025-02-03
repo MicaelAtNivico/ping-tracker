@@ -1,0 +1,35 @@
+{
+    "geometry": "150x280+3574+32",
+    "ips": {
+        "Kardex": {
+            "10.23.235.112": true,
+            "10.23.235.111": true,
+            "10.23.73.135": true,
+            "10.23.73.139": true,
+            "10.23.73.137": true,
+            "10.23.73.136": true,
+            "10.23.73.138": true
+        },
+        "Linux": {
+            "se-y-ravsttbc-03.xxx.com": true,
+            "se-y-ravsttbc-04.xxx.com": true,
+            "se-y-ravsttbc-05.xxx.com": true,
+            "se-y-ravsttbc-06.xxx.com": true,
+            "se-y-ravsttbc-07.xxx.com": false
+        }
+    },
+    "Name": {
+        "10.23.235.112": "358 CPU 1",
+        "10.23.235.111": "358 PANEL 1",
+        "10.23.73.135": "342 CPU 1",
+        "10.23.73.139": "342 LED 1",
+        "10.23.73.137": "342 LED 2",
+        "10.23.73.136": "342 PANEL 1",
+        "10.23.73.138": "342 PANEL 2",
+        "se-y-ravc-03.xxx.com": "FM-3",
+        "se-y-ravc-04.xxx.com": "FM-1",
+        "se-y-ravc-05.xxx.com": "SM-5",
+        "se-y-ravc-06.xxx.com": "SM-6",
+        "se-y-ravc-07.xxx.com": "FM-2",
+    }
+}
