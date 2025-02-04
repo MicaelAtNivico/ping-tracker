@@ -10,11 +10,11 @@
             "10.23.73.138": true
         },
         "Linux": {
-            "se-y-ravsttbc-03.xxx.com": true,
-            "se-y-ravsttbc-04.xxx.com": true,
-            "se-y-ravsttbc-05.xxx.com": true,
-            "se-y-ravsttbc-06.xxx.com": true,
-            "se-y-ravsttbc-07.xxx.com": false
+            "se-y-ravc-03.xxx.com": true,
+            "se-y-ravc-04.xxx.com": true,
+            "se-y-ravc-05.xxx.com": true,
+            "se-y-ravc-06.xxx.com": true,
+            "se-y-ravc-07.xxx.com": false
         }
     },
     "Name": {
